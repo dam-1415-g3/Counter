@@ -13,6 +13,8 @@ public class DryVan extends Contenidor {
 		return color;
 	}
 
+	System.out.println("Marc Civico");
+
 	
 	
 	
